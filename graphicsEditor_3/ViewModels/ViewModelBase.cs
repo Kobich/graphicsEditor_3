@@ -1,11 +1,6 @@
-using ReactiveUI;
-using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using ReactiveUI;
 
-namespace graphicsEditor_3.ViewModels
-{
-    public class ViewModelBase : ReactiveObject
-    {
+namespace Figurator.ViewModels {
+    public class ViewModelBase: ReactiveObject {
     }
 }
